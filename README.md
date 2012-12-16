@@ -6,7 +6,7 @@ Facebook Connect integration for Django Admin Interface using django-social-auth
 Installation
 ------------
 
-- $ virtualenv django-social-auth-google-openid
+- $ virtualenv django-social-auth-facebook
 - activate the virtual environment (Source/activate.bat (or) ./activate.sh) 
 - $ pip install -r requirements.txt (uncomment the MySQL-python if you are using mysql)
 
