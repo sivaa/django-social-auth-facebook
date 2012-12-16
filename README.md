@@ -10,9 +10,7 @@ Installation
 - activate the virtual environment (Source/activate.bat (or) ./activate.sh) 
 - $ pip install -r requirements.txt (uncomment the MySQL-python if you are using mysql)
 
-- Create a facebook app in https://developers.facebook.com/apps and update the below properties
--FACEBOOK_APP_ID              
--FACEBOOK_API_SECRET       
+- Create a facebook app in https://developers.facebook.com/apps and update FACEBOOK_APP_ID &   FACEBOOK_API_SECRET properties
 
 
 Configuration
