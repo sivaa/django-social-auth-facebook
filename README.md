@@ -7,10 +7,10 @@ Installation
 ------------
 
 - $ virtualenv django-social-auth-facebook
-- activate the virtual environment (Source/activate.bat (or) ./activate.sh) 
+- activate the virtual environment (Source/activate.bat (or)  source bin/activate) 
 - $ pip install -r requirements.txt (uncomment the MySQL-python if you are using mysql)
 
-- Create a facebook app in https://developers.facebook.com/apps and update FACEBOOK_APP_ID &   FACEBOOK_API_SECRET properties
+- Create a facebook app in https://developers.facebook.com/apps and update FACEBOOK_APP_ID & FACEBOOK_API_SECRET properties
 
 
 Configuration
